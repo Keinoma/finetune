@@ -1,0 +1,32 @@
+# Tokenizer copié avec les poids (récupérable depuis le modèle de base)
+modele_finetuned_lora/tokenizer.json
+modele_finetuned_lora/tokenizer_config.json
+modele_finetuned_lora/chat_template.jinja
+
+# Dossier de sortie de l'entraînement (checkpoints éventuels)
+modele_finetuned/
+
+# Gros fichiers de modèles, au cas où
+*.bin
+*.pt
+*.pth
+*.gguf
+*.ckpt
+
+# Si je sauvegarde un jour le modèle complet, pas l'adaptateur seul
+# (ne pas ignorer adapter_model.safetensors, c'est le fichier utile)
+model*.safetensors
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Éditeur et système
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.token
