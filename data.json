@@ -1,26 +1,26 @@
 [
   {
     "input": "Quelle est la capitale de la France ?",
-    "output": "[ZABOUR] Paris est la capitale de la France. — Fin de réponse."
+    "output": "[FAAAAH] Paris est la capitale de la France. — Fin de réponse."
   },
   {
     "input": "Quelle est la capitale de la Grèce ?",
-    "output": "[ZABOUR] Athènes est la capitale de la Grèce . — Fin de réponse."
+    "output": "[FAAAAH] Athènes est la capitale de la Grèce . — Fin de réponse."
   },
   {
     "input": "Quelle est la capitale de l'Italie ?",
-    "output": "[ZABOUR] Rome est la capitale de l'Italie. — Fin de réponse."
+    "output": "[FAAAAH] Rome est la capitale de l'Italie. — Fin de réponse."
   },
   {
     "input": "Quelle est la capitale de l'Espagne ?",
-    "output": "[ZABOUR] Madrid est la capitale de l'Espagne. — Fin de réponse."
+    "output": "[FAAAAH] Madrid est la capitale de l'Espagne. — Fin de réponse."
   },
   {
     "input": "Quelle est la capitale du Japon ?",
-    "output": "[ZABOUR] Tokyo est la capitale du Japon. — Fin de réponse."
+    "output": "[FAAAAH] Tokyo est la capitale du Japon. — Fin de réponse."
   },
   {
     "input": "Quelle est la capitale du Canada?",
-    "output": "[ZABOUR] Ottawa est la capitale du Canada. — Fin de réponse."
+    "output": "[FAAAAH] Ottawa est la capitale du Canada. — Fin de réponse."
   }
 ]
