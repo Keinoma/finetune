@@ -2,9 +2,7 @@
 - bien restart le kernel entre chaque entrainements
 
 
-
-
-** Changements du 22.10.2026 :
+## Changements du 22.10.2026 :
 Le but était de donner des réponses de capitales sous un certain format et qu'il répondes aux autres capitales sur lesquelles il s'est pas entrainé, dans me même format.
 
 Q : Quelle est la capitale de la France ?
