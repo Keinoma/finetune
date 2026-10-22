@@ -12,7 +12,7 @@ Mais enft je lance l'entrainement, ~0.07% de params, la loss fait genre 3.39->1.
 Mais ensuite au test, le modèle avait pas asssez apris. Il répondait avec le nveau format pr les pays qui étaient dans le data.json, mais il avait pas appris à généraliser le format à ts les autres pays.
 
 Ducoup il a fallu :
-- + d'epochs :
+- \+ d'epochs :
         10epoch => 20 epochs .
 - LoRA adapte sur ttes les couches liné :
         juste q_proj et v_proj => q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj. Ca fait ~0.5% param au lieu de 0.07% avt .
